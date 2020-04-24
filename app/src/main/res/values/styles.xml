@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorTotalConfirmed</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">#fff</item>
+    </style>
+
+    <style name="BottomNavigationView">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+
+    <style name="LabelFontStyle">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TotalFontStyle">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+</resources>
